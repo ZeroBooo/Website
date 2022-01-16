@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(239, 209, 176);
+    font-family: 'Just Another Hand', cursive;
+    position: flex;
+    flex-direction: column;
+  }
+  
+  h1 {
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 3px ridge #e77777;
+    border-radius: 5px;
+    background-color: rgb(238, 133, 102);
+    width: 25vw;
+    height: 13vh;
+  }
